@@ -2115,7 +2115,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Old MBKS Swimming Pool",
+  "name": "KMC Swimming Pool",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
